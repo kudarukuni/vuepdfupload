@@ -96,8 +96,8 @@
   }
 </script>
 
-<!--
-<style lang="scss">
+
+<style>
   .dropbox {
     outline: 2px dashed grey;
     outline-offset: -10px;
@@ -124,4 +124,3 @@
     padding: 50px 0;
   }
 </style>
--->
